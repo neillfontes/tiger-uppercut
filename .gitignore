@@ -60,3 +60,10 @@ target/
 .settings/
 .pydevproject
 .project
+
+# IDEA
+.idea/
+
+# Project-specific files that will not go to git
+cfg/config.properties
+cookies/cookies.pkl
